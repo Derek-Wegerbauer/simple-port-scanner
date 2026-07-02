@@ -77,6 +77,17 @@ Port 23: Closed/Filtered
 Scan completed in 0.12 seconds
 ```
 
+## Screenshots
+
+Selected screenshots from controlled lab testing are available in the `screenshots/` folder.
+
+Examples include:
+
+- Localhost open-only scan
+- Invalid port range validation
+- Remote Windows HTTP service detection
+- Raspberry Pi SSH detection
+
 ## Project Structure
 
 ```text
